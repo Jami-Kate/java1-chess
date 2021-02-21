@@ -12,11 +12,11 @@ There are also options for which GUI you want to use- JavaFX or Swing. You may u
 
 Launching the files from "Xiangqi" and "EuropeanChess" respectively should launch your board with the inputted type of GUI.
 
-For European Chess using Swing, it should be launch in the terminal with: 
-For European Chess using JavaFX, use: 
+For European Chess using Swing, it should be launch in the terminal with: EuropeanChess.main(swing);
+For European Chess using JavaFX, use: EuropeanChess.main(javafx);
 
-Xiangqi using Swing:
-Xiangqi using JavaFX:
+Xiangqi using Swing: Xiangqi.main(swing);
+Xiangqi using JavaFX: Xiangqi.main(javafx);
 
 Also included are the two testing documents. This project was done in two parts, and both parts have their own testing documents.
 "Project 3" relates mostly to European Chess on Swing, "Project 5" entails Xiangqi and JavaFX parts of the project.
